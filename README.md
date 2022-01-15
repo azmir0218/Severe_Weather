@@ -13,7 +13,7 @@ utilized to assemble the dataset to create a representative model of weather acr
 Relationships analyzed included: Cost of Disaster vs. US State, Number of Deaths per US State, 
 Number of Events per US State, and Time Period Comparisons (Past 4 Decades).
 ### Data Engineering
-(insert DATA PAGE image)
+<img width="1109" alt="data1" src="https://user-images.githubusercontent.com/data1.png">
 To begin this project, research was conducted to determine the best way to retrieve data for all major 
 weather disaster events in the US for the past 5 years. The weather events include: 'Drought', 
 'Flooding', 'Freeze', 'Severe Storm', 'Tropical Cyclone', 'Wildfire', and 'Winter Storm'. Initially, we looked
@@ -27,14 +27,16 @@ Based on the size and details included in this dataset, it is very difficult to 
 impact of the weather events. Therefore, we conducted our first data visualization to begin telling the 
 story of this data.
 ### Number of Events by Disaster Type
-(Bar of Events image)
+<img width="592" alt="Screen Shot 2021-10-28 at 6 29 10 PM" src="https://github.com/azmir0218/Severe_Weather/blob/main/Resources/bar1.png">
+
 Our initial visualization represents the total number of weather events for each disaster. As you can 
 see, the bar chart shows that there are 43 droughts, 42 floodings, 9 freezes, 426 severe storms, 124 
 tropical cyclones, 40 wildfires, and 40 winter storms. There were more winter storms to occur than any
 other event over the past 5 years. While that is helpful to know it doesn’t give you a full representation
 of how it impacted the US. 
 ### Number of Deaths by State 
-(Map of Events image)
+<img width="592" alt="Screen Shot 2021-10-28 at 6 29 10 PM" src="https://github.com/azmir0218/Severe_Weather/blob/main/Resources/map1.png">
+
 We decided that a view of the events as they occurred throughout the US would provide a better 
 illustration of how extreme weather events impact each region. Here you can see extreme weather 
 events have impacted each state and their community based on the number of deaths that these have
@@ -45,14 +47,14 @@ represent locations that experienced fewer deaths than other states. On the reve
 Carolina appear to have experienced the most deaths from weather events. Puerto Rico has the 
 highest death toll of any other major event that occurred in the US.
 ### Percentage of Total Damages Cost by Disaster Type
-(Pie of Events image)
+<img width="592" alt="Screen Shot 2021-10-28 at 6 29 10 PM" src="https://github.com/azmir0218/Severe_Weather/blob/main/Resources/pie1png.png">
 While this visualization provided many insights on death, we also created a pie chart visual of the 
 economic comparison of each event. As presented earlier in the bar chart, we illustrated that there 
 were more severe storms than any other event. Conversely, this pie chart illustrates that tropical 
 cyclones are the costliest of all event types. Tropical cyclones have caused the most damage 
 ($1,148.0 billion) and have the highest average event cost ($20.5 billion).
 ### Time Period Comparisons (Past 4 Decades)
-(Stacked Events image)
+<img width="592" alt="Screen Shot 2021-10-28 at 6 29 10 PM" src="https://github.com/azmir0218/Severe_Weather/blob/main/Resources/stacked1.png">
 Each visualization left us with more questions. Ultimately, we wanted to see how the past 5 years 
 compared to the past 4 decades of data. Here you can see, 2020 that set the new annual record of 22 
 events. During 2021, there were 20 separate weather and climate disaster events across the US that 
