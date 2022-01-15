@@ -61,6 +61,7 @@ events. During 2021, there were 20 separate weather and climate disaster events 
 cost $145.0 billion. It is the third most costly year on record. Only 2017 and 2005 cost more. The total 
 costs for the last five years ($742.1 billion) are more than one-third of the disaster cost total of the last
 42-years (1980-2021).
+
 ### Conclusion
 Over the last 42 years (1980-2021), the years with 10 or more separate disaster events that cost more
 than a billion dollars include 1998, 2008, 2011-2013, and 2015-2021.
