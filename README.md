@@ -1,8 +1,8 @@
 
-# Group Name: Storm Chasers
-## Project: Extreme Weather and Climate Disasters Analysis
-## Group Members: Nepanji Davis, Azmir Suljic, and Alex Mull-Dreyer
-### Introduction: 
+#### Group Name: Storm Chasers
+### Project: Extreme Weather and Climate Disasters Analysis
+### Group Members: Nepanji Davis, Azmir Suljic, and Alex Mull-Dreyer
+#### Introduction: 
 Extreme weather events are expected to increase as our planet continues to warm. As a result of a 
 warmer world, not only has the number of extreme events increased, so has the strength of the 
 events. In this project, we will view the economic and safety impact of the extreme weather and 
@@ -12,7 +12,7 @@ of the past few decades. To accomplish this analysis, NOAA Billion Dollar Weathe
 utilized to assemble the dataset to create a representative model of weather across the US. 
 Relationships analyzed included: Cost of Disaster vs. US State, Number of Deaths per US State, 
 Number of Events per US State, and Time Period Comparisons (Past 4 Decades).
-### Data Engineering
+#### Data Engineering
 <img width="592" alt="Screen Shot 2021-10-28 at 6 29 10 PM" src="https://github.com/azmir0218/Severe_Weather/blob/main/Resources/data1.png">
 To begin this project, research was conducted to determine the best way to retrieve data for all major 
 weather disaster events in the US for the past 5 years. The weather events include: 'Drought', 
@@ -26,7 +26,7 @@ Above is an image of the initial cleaned dataset of all weather disaster events 
 Based on the size and details included in this dataset, it is very difficult to get a true gauge of the 
 impact of the weather events. Therefore, we conducted our first data visualization to begin telling the 
 story of this data.
-### Number of Events by Disaster Type
+#### Number of Events by Disaster Type
 <img width="592" alt="Screen Shot 2021-10-28 at 6 29 10 PM" src="https://github.com/azmir0218/Severe_Weather/blob/main/Resources/bar1.png">
 
 Our initial visualization represents the total number of weather events for each disaster. As you can 
@@ -46,14 +46,14 @@ fewer deaths while the browner areas represent more deaths. States like Wisconsi
 represent locations that experienced fewer deaths than other states. On the reverse, states like North 
 Carolina appear to have experienced the most deaths from weather events. Puerto Rico has the 
 highest death toll of any other major event that occurred in the US.
-### Percentage of Total Damages Cost by Disaster Type
+#### Percentage of Total Damages Cost by Disaster Type
 <img width="592" alt="Screen Shot 2021-10-28 at 6 29 10 PM" src="https://github.com/azmir0218/Severe_Weather/blob/main/Resources/pie1png.png">
 While this visualization provided many insights on death, we also created a pie chart visual of the 
 economic comparison of each event. As presented earlier in the bar chart, we illustrated that there 
 were more severe storms than any other event. Conversely, this pie chart illustrates that tropical 
 cyclones are the costliest of all event types. Tropical cyclones have caused the most damage 
 ($1,148.0 billion) and have the highest average event cost ($20.5 billion).
-### Time Period Comparisons (Past 4 Decades)
+#### Time Period Comparisons (Past 4 Decades)
 <img width="592" alt="Screen Shot 2021-10-28 at 6 29 10 PM" src="https://github.com/azmir0218/Severe_Weather/blob/main/Resources/stacked1.png">
 Each visualization left us with more questions. Ultimately, we wanted to see how the past 5 years 
 compared to the past 4 decades of data. Here you can see, 2020 that set the new annual record of 22 
@@ -62,7 +62,7 @@ cost $145.0 billion. It is the third most costly year on record. Only 2017 and 2
 costs for the last five years ($742.1 billion) are more than one-third of the disaster cost total of the last
 42-years (1980-2021).
 
-### Conclusion
+#### Conclusion
 Over the last 42 years (1980-2021), the years with 10 or more separate disaster events that cost more
 than a billion dollars include 1998, 2008, 2011-2013, and 2015-2021.
 In the end, producing each visualization was challenging but very rewarding. They provided us with the
