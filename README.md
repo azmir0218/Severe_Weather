@@ -13,7 +13,7 @@ utilized to assemble the dataset to create a representative model of weather acr
 Relationships analyzed included: Cost of Disaster vs. US State, Number of Deaths per US State, 
 Number of Events per US State, and Time Period Comparisons (Past 4 Decades).
 ### Data Engineering
-<img width="1109" alt="data1" src="https://user-images.githubusercontent.com/data1.png">
+<img width="592" alt="Screen Shot 2021-10-28 at 6 29 10 PM" src="https://github.com/azmir0218/Severe_Weather/blob/main/Resources/data1.png">
 To begin this project, research was conducted to determine the best way to retrieve data for all major 
 weather disaster events in the US for the past 5 years. The weather events include: 'Drought', 
 'Flooding', 'Freeze', 'Severe Storm', 'Tropical Cyclone', 'Wildfire', and 'Winter Storm'. Initially, we looked
